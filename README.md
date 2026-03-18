@@ -51,5 +51,5 @@ Add screenshots of:
 ![Filter Devices](devices_list.png)
 
 ### Total Energy
-![Energy](total_energy.png)
+![Energy](energy.png)
 
