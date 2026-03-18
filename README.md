@@ -48,7 +48,8 @@ Add screenshots of:
 ![Get Devices](get_devices.png)
 
 ### Filter Devices
-![Filter Devices](filter_devices.png)
+![Filter Devices](devices_list.png)
 
 ### Total Energy
-![Energy](energy_total.png)
+![Energy](total_energy.png)
+
